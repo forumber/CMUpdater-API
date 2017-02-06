@@ -1,0 +1,16 @@
+{
+ "id": null,
+ "result": [
+    {
+    "url": "https://raw.githubusercontent.com/forumber/CMUpdater-API/master/20170202_to_20170206.zip",
+    "timestamp": "1486401529",
+    "api_level": "22",
+    "md5sum": "e2433d10be80e321a18a443b140e738e",
+    "filename": "20170202_to_20170206.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
+  ],
+ "error": null
+}
